@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nikolay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in constantly improving my skills
+- 🌱 I’m currently learning to Python
 - 📫 How to reach me: kraulisn@gmail.com
 
 <!---
